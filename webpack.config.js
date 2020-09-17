@@ -1,3 +1,6 @@
+/**
+ * https://webpack.js.org/contribute/writers-guide/
+ */
 const webpack = require('webpack');
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
